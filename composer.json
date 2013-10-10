@@ -1,5 +1,5 @@
 {
-    "name": "fabpot/silex-skeleton",
+    "name": "fpoyato/silex-base-project",
     "license": "MIT",
     "require": {
         "php": ">=5.3.3",
